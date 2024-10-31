@@ -1,10 +1,10 @@
 #SITE CONFIGURATION
 
-title: CarlosManuel Aceves
-description: Musician/Musicologist
-repository: "carlosmanuelaceeves/music-portfolio"
+title: Mariachi Tallahasse
+description: Tallahassee/s Premier Mariachi
+repository: "mariachitallahasse/music-portfolio"
 baseurl: 
-url: "http://carlosmanuelaceves.com"
+url: "http://mariachitallahassee.com"
 
 google_tag_manager: GTM-P7PZFVP
 
@@ -13,10 +13,10 @@ google_tag_manager: GTM-P7PZFVP
 social:
   name: CarlosManuel Aceves 
   links:
-    - https://www.facebook.com/carlosmanuelaceves
-    - https://www.instagram.com/carlosmanuelaceves
-    - https://www.youtube.com/user/andrewstiefel
-    - https://github.com/andrewstiefel
+    - https://www.facebook.com/mariachitallahassee
+    - https://www.instagram.com/mariachitallahassee
+    - https://www.youtube.com/user/mariachitallahassee
+    
     
 #THEME SETTINGS
 
@@ -25,12 +25,9 @@ navigation: # Navigation links
   - {name: 'Recordings', link: '/recordings'}
   - {name: 'Contact', link: '/contact'}
   
-email: carlosmanuelaceves@gmail.com
-twitter_username: andrewstiefel
-github_username: andrewstiefel
-instagram_username: carlosmanuelaceves
-facebook_username: andrewstiefel
-linkedin_username: andrewstiefel
+email: grupoclassico1@gmail.com
+instagram_username: mariachitallahassee
+facebook_username: mariachitallahassee
 
 #BUILD SETTINGS
 
