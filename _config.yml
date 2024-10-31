@@ -1,23 +1,21 @@
 #SITE CONFIGURATION
 
-title: Andrew Stiefel
-description: Composer
-repository: "andrewstiefel/music-portfolio"
+title: CarlosManuel Aceves
+description: Musician/Musicologist
+repository: "carlosmanuelaceeves/music-portfolio"
 baseurl: 
-url: "http://andrewstiefel.com"
+url: "http://carlosmanuelaceves.com"
 
 google_tag_manager: GTM-P7PZFVP
 
 # SEO PLUGIN
 
 social:
-  name: Andrew Stiefel
+  name: CarlosManuel Aceves 
   links:
-    - https://www.facebook.com/andrewstiefel
-    - https://twitter.com/andrewstiefel
-    - https://www.instagram.com/andrewstiefel
+    - https://www.facebook.com/carlosmanuelaceves
+    - https://www.instagram.com/carlosmanuelaceves
     - https://www.youtube.com/user/andrewstiefel
-    - https://www.linkedin.com/in/andrewstiefel
     - https://github.com/andrewstiefel
     
 #THEME SETTINGS
